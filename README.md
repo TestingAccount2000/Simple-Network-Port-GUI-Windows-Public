@@ -9,7 +9,7 @@ This distributable comes in two forms within each separate directory: a python s
 ## UI
 
 
-<img src="https://github.com/TestingAccount2000/Simple-Network-Port-GUI-Windows/assets/98635532/46c3b4f3-a71b-4e0e-8c11-d75c3b5b6c5d" alt="GUI Image" width="500">
+<img src="https://github.com/TestingAccount2000/Simple-Network-Port-GUI-Windows-Public/blob/main/ReadMeImages/WindowsTool.png" alt="GUI Image" width="500">
 
 
 
